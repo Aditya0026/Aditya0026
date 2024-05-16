@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">I am Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="![Uploading image.png…]()
+<img align="right" alt="Coding" width="400" src="![Uploading 113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif…]()
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0026&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0026" /> </p>
