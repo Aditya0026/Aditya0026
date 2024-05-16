@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">I am Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/Aditya0026/Aditya0026/assets/112238060/857dc803-9046-4815-a39d-05f97e0e18d1)
-">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Fg1M.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0026&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0026" /> </p>
 
